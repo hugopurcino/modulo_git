@@ -1,0 +1,37 @@
+[33mcommit 5aab3e64bc6415bc9557c62d783fa9288da6decb[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Hugo Purcino <hugo.purcino@gmail.com>
+Date:   Sun Mar 5 15:43:24 2023 -0300
+
+    inclusão de changelog.md
+
+ changelog.md | 9 [32m+++++++++[m
+ 1 file changed, 9 insertions(+)
+
+[33mcommit e8381f085076f077fa9d640fef65c85dfc8388ae[m
+Author: Hugo Purcino <hugo.purcino@gmail.com>
+Date:   Tue Feb 28 17:19:13 2023 -0300
+
+    colocando virgula no arquivo2.txt
+
+ arquivo2.txt | Bin [31m32[m -> [32m34[m bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+[33mcommit e572ec3461d37c0388916acc789e4c4c84192fd0[m
+Author: Hugo Purcino <hugo.purcino@gmail.com>
+Date:   Tue Feb 28 17:15:35 2023 -0300
+
+    alterando o conteudo de arquivo2.txt
+
+ arquivo2.txt | Bin [31m26[m -> [32m32[m bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+[33mcommit 1f0e223d22c2934bd8f066d567e2c1cb5658f154[m
+Author: Hugo Purcino <hugo.purcino@gmail.com>
+Date:   Tue Feb 28 17:11:03 2023 -0300
+
+    inclusao de novos arquivos
+    inclusão dos arquvivos arquivo.txt e arquivo2.txt
+
+ arquivo.txt  | Bin [31m0[m -> [32m24[m bytes
+ arquivo2.txt | Bin [31m0[m -> [32m26[m bytes
+ 2 files changed, 0 insertions(+), 0 deletions(-)
